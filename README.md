@@ -8,6 +8,13 @@
 - 🏊‍♂️ Hobbies: Swimming, Soccer, Videogames
 - 🌱 I’m currently learning: **Node.js**
 
+   
+<div align="center">  
+  
+![dev](https://user-images.githubusercontent.com/65189994/210685946-561be189-0416-4257-89c3-6a6fa1254515.gif)
+  
+</div> 
+  
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -27,6 +34,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+  
 
   
  # <h3 align="left"> 📊GitHub Stats:</h3>
