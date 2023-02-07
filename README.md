@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">Computer Engineering student at IPN</h3>
 
+I'm a Computer Engineering passionate about technology in general and I consider myself a committed and self-taught person who loves to solve problems.
 
 
 - 😄 Pronouns: 'He' | 'Him'
