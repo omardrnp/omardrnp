@@ -20,11 +20,9 @@ I'm a Computer Engineering passionate about technology in general and I consider
 <div align ="center">  
  <a href="https://github.com/omardrnp">
 
-![](https://github-readme-stats.vercel.app/api?username=omardrnp&theme=dark&hide&hide_border=false_&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omardrnp&theme=dark&hide&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omardrnp&theme=dark&hide&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=omardrnp&icon=5&color=12)](https://visitcount.itsvg.in)   
   </a>
 </div>
