@@ -21,8 +21,3 @@ I'm a Computer Engineering passionate about technology in general and I consider
  <a href="https://github.com/omardrnp">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omardrnp&theme=dark&hide&hide_border=false)<br/>
-
-
-[![](https://visitcount.itsvg.in/api?id=omardrnp&icon=5&color=12)](https://visitcount.itsvg.in)   
-  </a>
-</div>
