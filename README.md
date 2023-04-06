@@ -6,7 +6,7 @@ I'm a Computer Engineering passionate about technology in general and I consider
 - 🏊‍♂️ Hobbies: Swimming, Soccer, Videogames
 - 🎯 Areas: Web, Cloud
 - 💻 Languages and Tools: HTML, CSS, JS, Node.js, Git, SQL, Azure
-- 🌱 I’m currently learning: **PHP**
+- 🌱 I’m currently learning: **PHP, Laravel**
    
 <div align="center">  
    
