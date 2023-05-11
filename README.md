@@ -5,8 +5,8 @@ I'm a Computer Engineering passionate about technology in general and I consider
 - 😄 Pronouns: 'He' | 'Him'
 - 🏊‍♂️ Hobbies: Swimming, Soccer, Videogames
 - 🎯 Areas: Web, Cloud
-- 💻 Languages and Tools: HTML, CSS, JS, Node.js, Git, SQL, Azure
-- 🌱 I’m currently learning: **PHP, Laravel**
+- 💻 Languages and Tools: HTML, CSS, JS, Git, SQL, Azure, PHP
+- 🌱 I’m currently learning: **Java**
    
 <div align="center">  
    
