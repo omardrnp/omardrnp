@@ -9,10 +9,8 @@
 
 I'm a Computer Engineering passionate about technology in general and I consider myself a committed and self-taught person who loves to solve problems. My favorite programming language currently is Java.
 
-- 😄 Pronouns: 'He' | 'Him'
-- 🏊‍♂️ Hobbies: Swimming, Soccer, Videogames
 - 🎯 Areas: Backend, Cloud
-- 💻 Languages and Tools: HTML, CSS, JS, PHP, Java, SQL, Git, Azure
+- 💻 Languages and Tools: JS, Java, SQL, Git, Azure
 - 🌱 I’m currently learning: **Spring Boot**
    
 <div align="center">  
