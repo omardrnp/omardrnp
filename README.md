@@ -6,8 +6,9 @@
 
 </div> 
 
+👋 Hey there, I'm Omar!
 
-I'm a Computer Engineering passionate about technology in general and I consider myself a committed and self-taught person who loves to solve problems. My favorite programming language currently is Java.
+Welcome to my GitHub space. I'm a tech enthusiast and Computer Engineering graduate from IPN. My journey through coding and technology has been a thrilling ride, constantly pushing me to learn and solve challenges. My favorite programming language currently is Java.
 
 - 🎯 Areas: Backend, Cloud
 - 💻 Languages and Tools: JS, Java, SQL, Git, Azure
