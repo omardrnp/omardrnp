@@ -15,7 +15,7 @@ I'm a Computer Engineering passionate about technology in general and I consider
    
 <div align="center">  
    
-![dev](https://user-images.githubusercontent.com/65189994/210685946-561be189-0416-4257-89c3-6a6fa1254515.gif)
+![jim-carrey (1)](https://github.com/omardrnp/omardrnp/assets/65189994/ae32ad94-4614-474c-b451-def1fbb23418)
 
 </div> 
   
