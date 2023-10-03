@@ -19,11 +19,3 @@ Welcome to my GitHub space. I'm a tech enthusiast and Computer Engineering gradu
 ![jim-carrey (1)](https://github.com/omardrnp/omardrnp/assets/65189994/ae32ad94-4614-474c-b451-def1fbb23418)
 
 </div> 
-  
-  
-# <h3 align="left"> 📊GitHub Stats:</h3>
- 
-<div align ="center">  
- <a href="https://github.com/omardrnp">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=omardrnp&theme=dark&hide&hide_border=false)<br/>
