@@ -13,5 +13,5 @@ Welcome to my GitHub space. I'm a tech enthusiast and Computer Engineering gradu
 - 🏊‍♂️ Hobbies: Swimming, Soccer, Yoga
 - 🎯 Areas: Backend, Cloud
 - 💻 Languages: Java, SQL
-- 🛠 Tools: Spring, Scrum, Git, Azure
-- 🌱 I’m currently learning: **Spring Batch**
+- 🛠 Tools: Spring, Git, Azure, Scrum
+- 🌱 I’m currently learning: **Spring Boot**
