@@ -10,8 +10,8 @@
 
 Welcome to my GitHub space. I'm a tech enthusiast and Computer Engineering graduate from IPN. My journey through coding and technology has been a thrilling ride, constantly pushing me to learn and solve challenges. My favorite programming language currently is Java.
 
-- 🏊‍♂️ Hobbies: Swimming, Soccer, Yoga
+- 🏊‍♂️ Hobbies: Swimming, Running, Yoga, Soccer
 - 🎯 Areas: Backend, Cloud
-- 💻 Languages: Java, SQL
-- 🛠 Tools: Spring, Git, Azure, Scrum
+- 💻 Languages: Java
+- 🛠 Tools: Spring, SQL, Git, Azure, Scrum
 - 🌱 I’m currently learning: **Spring Boot**
